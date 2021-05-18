@@ -10,4 +10,5 @@ def area():
 def main():
     area()
 
+
 main()
